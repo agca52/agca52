@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- run 
+- run transfer
+-  adress
+- wallet 1111111111111 :<>:
