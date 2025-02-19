@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 - run 
 - run transfer
--  adress
-- wallet 1111111111111 :<>:
+- not coin adress -> UQAc0vbwbbO1uJCoDgaP1OxBnAHjoGtQqev5sd1EVPJu3EAv
