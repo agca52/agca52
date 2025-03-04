@@ -77,5 +77,7 @@ Here are some ideas to get you started:
     if (flags & 2) {
       msg = msg.store_uint(0x18, 6)
                .store_slice(s_addr)
-               .store_grams(0)
+               .store_grams(0)   
                .store_uint(0, 1 + 4 + 4 + 64 + 32 + 1 + 1)
+
+
