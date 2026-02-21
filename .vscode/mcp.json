@@ -1,0 +1,13 @@
+{
+	"servers": {
+		"microsoft/markitdown": {
+			"type": "stdio",
+			"command": "uvx",
+			"args": [
+				"markitdown-mcp@0.0.1a4"
+			],
+			"version": "1.0.0"
+		}
+	},
+	"inputs": []
+}
