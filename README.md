@@ -1,7 +1,23 @@
 ## Hi there 👋 Eagle_Freedom
 
-<!--
+
+-kartal1 kod.                                           
+-öğrenmeye açık biriyim.                                     
+-meraklı ve bi okadar hırslı biriyimdir.                                                  
+-özellikle kod yazmak için herşeyimi harcayabilirim.                                         
+ I’m currently working on ...                                                       
+ I’m currently learning ...                                                     
+ Fun fact: ...
+ Pronouns: ...
+ How to reach me: ...    agcanazif@gmail.com                       
+ 
+   
+   
+   
+   <!--
+
 **agca52/agca52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
 
 Here are some ideas to get you started:
 
